@@ -710,5 +710,5 @@ PRODUCT_PACKAGES += \
 PRODUCT_BOOT_JARS += \
     WfdCommon
 
-# Vendor
-$(call inherit-product, vendor/xiaomi/chenfeng/chenfeng-vendor.mk)
+ # Vendor
+ $(call inherit-product, vendor/xiaomi/chenfeng/chenfeng-vendor.mk)
